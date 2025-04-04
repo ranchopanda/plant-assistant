@@ -1,6 +1,7 @@
-streamlit
-google-generativeai
-Pillow
-opencv-python-headless
-numpy
-requests
+streamlit==1.30.0
+google-generativeai==0.39.0
+requests==2.31.0
+opencv-python==4.9.0.82
+Pillow==10.2.0
+numpy==1.26.4
+python-dateutil==2.8.2  # For datetime handling
